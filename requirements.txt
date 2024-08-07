@@ -1,0 +1,7 @@
+langchain>=0.1.16
+pandas
+ollama
+langchain-community
+pypdf
+python-dotenv
+faiss-cpu
